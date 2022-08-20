@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Aston_dz_3</string>
+    <string name="load_image">Load Image</string>
+    <string name="set_url_of_photo">Set url of photo</string>
+    <string name="url">URL</string>
+    <string name="load_image_from_url">Load Image</string>
 </resources>

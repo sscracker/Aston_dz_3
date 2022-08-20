@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/Aston_dz_3/app/src/main/res/layout/activity_load_image.xml" value="0.22" />
         <entry key="..\:/Users/HP/Aston_dz_3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Aston_dz_3/app/src/main/res/layout/image_photo.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/HP/Aston_dz_3/app/src/main/res/layout/load_image.xml" value="0.24114583333333334" />
       </map>
     </option>
   </component>
